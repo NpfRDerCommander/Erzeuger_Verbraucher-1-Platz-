@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=nummer
+comment0.target=KISTE(int)
+comment0.text=\nLegt\ die\ Kistennummer\ fest\n\n
+comment1.target=int\ KistennummerGeben()
+comment1.text=\nMeldet\ die\ Nummer\ der\ Kiste\n\n
+numComments=2

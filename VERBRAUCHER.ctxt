@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=z\ s
+comment0.target=VERBRAUCHER(int,\ SPEICHER)
+comment0.text=\nLegt\ die\ mittlere\ Einlagerzeit\ fest\n@param\ z\ die\ Einlagerzeit\n@param\ s\ der\ Zwischenspeicher\n\n
+comment1.target=void\ run()
+comment1.text=\nDie\ Arbeitsmethode\ des\ Threads.\n\n
+comment2.params=kiste
+comment2.target=void\ Einlagern(KISTE)
+comment2.text=\nLagert\ Kisten\ in\ der\ gegebenen\ Zeit.\n\n
+numComments=3

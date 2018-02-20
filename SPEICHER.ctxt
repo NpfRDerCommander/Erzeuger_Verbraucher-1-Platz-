@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SPEICHER()
+comment0.text=\nBesetzt\ die\ Attribute\ vor\n\n
+comment1.params=kiste
+comment1.target=void\ Ablegen(KISTE)
+comment1.text=\nVersucht,\ eine\ Kiste\ abzulegen\ und\ wartet\ gegebenenfalls.\n@param\ kiste\ die\ abzulegende\ Kiste\n\n
+comment2.target=KISTE\ Holen()
+comment2.text=\nVersucht,\ eine\ Kiste\ zu\ holen\ und\ wartet\ gegebenenfalls.\n@return\ die\ geholte\ Kiste\n\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=z\ s
+comment0.target=ERZEUGER(int,\ SPEICHER)
+comment0.text=\nLegt\ die\ Konstruktionszeit\ fest\n@param\ z\ die\ Konstruktionszeit\n@param\ s\ der\ Zwischenspeicher\n\n
+comment1.target=void\ run()
+comment1.text=\nDie\ Arbeitsmethode\ des\ Threads.\n\n
+comment2.target=KISTE\ Produzieren()
+comment2.text=\nProduziert\ Kisten\ in\ der\ gegebenen\ Zeit.\n\n
+numComments=3
